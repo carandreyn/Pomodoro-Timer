@@ -1,0 +1,11 @@
+C:\Users\caran\source\repos\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe.config
+C:\Users\caran\source\repos\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe
+C:\Users\caran\source\repos\Pomodoro\Pomodoro\bin\Debug\Pomodoro.pdb
+C:\Users\caran\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.AssemblyReference.cache
+C:\Users\caran\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.SuggestedBindingRedirects.cache
+C:\Users\caran\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Properties.Resources.resources
+C:\Users\caran\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.GenerateResource.cache
+C:\Users\caran\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.CoreCompileInputs.cache
+C:\Users\caran\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.exe
+C:\Users\caran\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.pdb
+C:\Users\caran\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Pomodoro.resources
